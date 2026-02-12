@@ -1,0 +1,7 @@
+{
+  "name": "Noorulain Farooq Portfolio",
+  "description": "A professional AI and Data enthusiast portfolio showcasing projects in healthcare monitoring, AI scouts, and machine learning models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
