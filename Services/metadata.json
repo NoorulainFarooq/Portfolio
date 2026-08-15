@@ -1,0 +1,6 @@
+{
+  "name": "JSON Image Enricher",
+  "description": "Upload menu or catalog JSON files, choose to add images to categories, items, or both, and generate updated JSON with high-quality images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
